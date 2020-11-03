@@ -1,9 +1,9 @@
 # DNP_Assignment2
 
-This is Assignment 2
+This is Assignment 3
 
-API Tests shows that some variables are named wrong or are missing in API Documentation provided.
+A new CloudUserService is added to connect to API
 
-Post/Patch requests give 405 Error while others work as intended
+In Case of Errors - Change connection urls of localhost to API in both: CloudUserService and CloudAdultService, none the less if provided it can connect to previous cloud provided aswell.
 
-Note: The project files are still called Assignment 1 as it is used as the base for this project
+Note: The project files are still called Assignment 1 and project base folder is still called Assignment 2 as it is used as the base for this project.
